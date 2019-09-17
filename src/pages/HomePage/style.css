@@ -1,0 +1,26 @@
+@import '~antd/dist/antd.css';
+.mt{
+    margin-top: 10px;
+}
+.mt40{
+    margin-top: 40px;
+}
+.ml{
+    margin-left: 10px;
+}
+.mr{
+    margin-right: 10px;
+}
+.mb{
+    margin-bottom: 10px;
+}
+.mg{
+    margin: 10px;
+}
+.fw{
+    font-weight: bold;
+}
+
+.ant-card-body {
+    font-weight: bold;
+}

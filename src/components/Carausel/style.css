@@ -1,0 +1,33 @@
+@import '~antd/dist/antd.css';
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  /* line-height: 160px; */
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.ant-carousel .slick-slide div.banner1{
+  background-image: url(./../../img/banner1.jpg);
+  background-size: cover;
+  height: 464px;
+}
+
+.ant-carousel .slick-slide div.banner2{
+  background-image: url(./../../img/banner2.jpg);
+  background-size: cover;
+  height: 464px;
+}
+.ant-carousel .slick-slide div.banner3{
+  background-image: url(./../../img/banner3.jpg);
+  background-size: cover;
+  height: 464px;
+}
+.ant-carousel .slick-slide div.banner4{
+  background-image: url(./../../img/banner4.jpg);
+  background-size: cover;
+  height: 464px;
+}
